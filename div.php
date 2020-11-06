@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class=="col">
+                    <div class="col">
                         <img src="pic109/t3.jpg" class ="img-fluid rounded">
                     </div>
                 </div>
